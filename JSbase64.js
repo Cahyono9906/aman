@@ -20,7 +20,7 @@ var Base64 = {_keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123
     ];
     /* Penampungan Posts tanpa batas */
 
-    var randomPostingan = listposts[Math.floor(Math.random()*listposts.length)];
+    var randomposts = listposts[Math.floor(Math.random()*listposts.length)];
     var a_to_vi = "";
     for (var i = 0; i < a_to_va; i++) {
         a_to_vh = false;
@@ -34,7 +34,7 @@ var Base64 = {_keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = randomPostingan + "?url=" + encryptedUrl;
+            a_to_ve[i].href = randomposts + "?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";

@@ -122,11 +122,20 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://safelinkgazray.blogspot.com/2019/04/get-to-know-patau-syndrome-deadly-rare.html",
-      "https://safelinkgazray.blogspot.com/2019/03/nvidia-geforce-rtx-2060-isue.html",
-      "https://safelinkgazray.blogspot.com/2019/03/orang-bisa-marah-karena-google-chrome.html",
+      "https://safelinkgazray.blogspot.com/2019/04/understanding-of-riba-in-islam-types-of.html",
+      "https://safelinkgazray.blogspot.com/2019/04/definition-of-debit-and-credit-in.html",
+      "https://safelinkgazray.blogspot.com/2019/04/general-understanding-of-banks.html",
       "https://safelinkgazray.blogspot.com/2019/03/spy-android-kidlogger-part-2.html",
       "https://safelinkgazray.blogspot.com/2019/03/tor-browser-dan-cara-penggunaan.html",
+      "https://safelinkgazray.blogspot.com/2019/04/get-to-know-patau-syndrome-deadly-rare.html",
+      "https://safelinkgazray.blogspot.com/2019/03/nvidia-geforce-rtx-2060-isue.html",
+      "https://safelinkgazray.blogspot.com/2019/04/definition-of-mutual-funds-types.html",
+      "https://safelinkgazray.blogspot.com/2019/04/other-causes-of-weight-loss.html",
+      "https://safelinkgazray.blogspot.com/2019/04/this-is-reason-for-your-weight-not-down.html",
+      "https://safelinkgazray.blogspot.com/2019/04/this-is-what-you-need-to-know-about.html",
+      "https://safelinkgazray.blogspot.com/2019/04/this-is-healthy-food-that-needs-to-be.html",
+      "https://safelinkgazray.blogspot.com/2019/04/financial-management-testing-function.html",
+      "https://safelinkgazray.blogspot.com/2019/04/get-to-know-patau-syndrome-deadly-rare.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 

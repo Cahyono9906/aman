@@ -119,7 +119,7 @@ function auto_safeconvert() {
     var a_to_vh = false;
     var j = 0;
 
-    /*TAMBAH DISINI LINK POSTINGANNYA*/
+    /* Tempat penampungan posts*/
     
     var daftarPostingan = [
       "https://safelinkgazray.blogspot.com/2019/04/understanding-of-riba-in-islam-types-of.html",
@@ -137,7 +137,7 @@ function auto_safeconvert() {
       "https://safelinkgazray.blogspot.com/2019/04/financial-management-testing-function.html",
       "https://safelinkgazray.blogspot.com/2019/04/get-to-know-patau-syndrome-deadly-rare.html",
     ];
-    /* Jika ingin menambah postingan, copas saja */
+    /* Penampungan tanpa batas */
 
     var randomPostingan = daftarPostingan[Math.floor(Math.random()*daftarPostingan.length)];
     var a_to_vi = "";

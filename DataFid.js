@@ -123,10 +123,10 @@ function auto_safeconvert() {
     
     var daftarPostingan = [
       "https://safelinkgazray.blogspot.com/2019/04/get-to-know-patau-syndrome-deadly-rare.html",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
+      "https://safelinkgazray.blogspot.com/2019/03/nvidia-geforce-rtx-2060-isue.html",
+      "https://safelinkgazray.blogspot.com/2019/03/orang-bisa-marah-karena-google-chrome.html",
+      "https://safelinkgazray.blogspot.com/2019/03/spy-android-kidlogger-part-2.html",
+      "https://safelinkgazray.blogspot.com/2019/03/tor-browser-dan-cara-penggunaan.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 

@@ -121,16 +121,16 @@ function auto_safeconvert() {
 
     /* Tempat penampungan posts*/
     var daftarPostingan = [
-      "https://wantahealth.blogspot.com/2019/05/5-causes-of-stomach-heartburn-after.html",
-      "https://wantahealth.blogspot.com/2019/05/intolerant-gluten-signs-and-symptoms.html",
-      "https://wantahealth.blogspot.com/2019/05/these-are-benefits-of-moringa-leaves.html",
-      "https://wantahealth.blogspot.com/2019/05/types-of-companion-foods-best-breast.html",
-      "https://wantahealth.blogspot.com/2019/05/food-discipline-for-healthier-life.html",
-      "https://wantahealth.blogspot.com/2019/05/meet-nutrition-during-pregnancy.html",
-      "https://wantahealth.blogspot.com/2019/05/pregnant-quick-solutions-for-women-with.html",
-      "https://wantahealth.blogspot.com/2019/05/what-you-cannot-do-during-pregnancy.html",
-      "https://wantahealth.blogspot.com/2019/05/be-careful-using-skin-bleach-during.html",
-      "https://wantahealth.blogspot.com/2019/05/tips-for-caring-for-mother-and-third.html",
+      "https://wantahealth.blogspot.com/p/tips-for-caring-for-mother-and-third.html",
+      "https://wantahealth.blogspot.com/p/be-careful-using-skin-bleach-during.html",
+      "https://wantahealth.blogspot.com/p/what-you-cannot-do-during-pregnancy.html",
+      "https://wantahealth.blogspot.com/p/pregnant-quick-solutions-for-women-with.html",
+      "https://wantahealth.blogspot.com/p/meet-nutrition-during-pregnancy.html",
+      "https://wantahealth.blogspot.com/p/food-discipline-for-healthier-life.html",
+      "https://wantahealth.blogspot.com/p/types-of-companion-foods-best-breast.html",
+      "https://wantahealth.blogspot.com/p/function-generate-var-linkdl-document.html",
+      "https://wantahealth.blogspot.com/p/intolerant-gluten-signs-and-symptoms.html",
+      "https://wantahealth.blogspot.com/p/5-causes-of-stomach-heartburn-after.html",
     ];
     /* Penampungan tanpa batas */
 

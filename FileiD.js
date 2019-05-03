@@ -120,18 +120,17 @@ function auto_safeconvert() {
     var j = 0;
 
     /* Tempat penampungan posts*/
-    
     var daftarPostingan = [
-      "https://safelinkgazray.blogspot.com/2019/04/understanding-of-riba-in-islam-types-of.html",
-      "https://safelinkgazray.blogspot.com/2019/04/definition-of-debit-and-credit-in.html",
-      "https://safelinkgazray.blogspot.com/2019/04/general-understanding-of-banks.html",
-      "https://safelinkgazray.blogspot.com/2019/04/definition-of-mutual-funds-types.html",
-      "https://safelinkgazray.blogspot.com/2019/04/other-causes-of-weight-loss.html",
-      "https://safelinkgazray.blogspot.com/2019/04/this-is-reason-for-your-weight-not-down.html",
-      "https://safelinkgazray.blogspot.com/2019/04/this-is-what-you-need-to-know-about.html",
-      "https://safelinkgazray.blogspot.com/2019/04/this-is-healthy-food-that-needs-to-be.html",
-      "https://safelinkgazray.blogspot.com/2019/04/financial-management-testing-function.html",
-      "https://safelinkgazray.blogspot.com/2019/04/get-to-know-patau-syndrome-deadly-rare.html",
+      "https://wantahealth.blogspot.com/2019/05/5-causes-of-stomach-heartburn-after.html",
+      "https://wantahealth.blogspot.com/2019/05/intolerant-gluten-signs-and-symptoms.html",
+      "https://wantahealth.blogspot.com/2019/05/these-are-benefits-of-moringa-leaves.html",
+      "https://wantahealth.blogspot.com/2019/05/types-of-companion-foods-best-breast.html",
+      "https://wantahealth.blogspot.com/2019/05/food-discipline-for-healthier-life.html",
+      "https://wantahealth.blogspot.com/2019/05/meet-nutrition-during-pregnancy.html",
+      "https://wantahealth.blogspot.com/2019/05/pregnant-quick-solutions-for-women-with.html",
+      "https://wantahealth.blogspot.com/2019/05/what-you-cannot-do-during-pregnancy.html",
+      "https://wantahealth.blogspot.com/2019/05/be-careful-using-skin-bleach-during.html",
+      "https://wantahealth.blogspot.com/2019/05/tips-for-caring-for-mother-and-third.html",
     ];
     /* Penampungan tanpa batas */
 

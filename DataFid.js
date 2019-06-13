@@ -122,16 +122,12 @@ function auto_safeconvert() {
     /* Tempat penampungan posts*/
     
     var daftarPostingan = [
-      "https://safelinkgazray.blogspot.com/2019/04/understanding-of-riba-in-islam-types-of.html",
-      "https://safelinkgazray.blogspot.com/2019/04/definition-of-debit-and-credit-in.html",
-      "https://safelinkgazray.blogspot.com/2019/04/general-understanding-of-banks.html",
-      "https://safelinkgazray.blogspot.com/2019/04/definition-of-mutual-funds-types.html",
-      "https://safelinkgazray.blogspot.com/2019/04/other-causes-of-weight-loss.html",
-      "https://safelinkgazray.blogspot.com/2019/04/this-is-reason-for-your-weight-not-down.html",
-      "https://safelinkgazray.blogspot.com/2019/04/this-is-what-you-need-to-know-about.html",
-      "https://safelinkgazray.blogspot.com/2019/04/this-is-healthy-food-that-needs-to-be.html",
-      "https://safelinkgazray.blogspot.com/2019/04/financial-management-testing-function.html",
-      "https://safelinkgazray.blogspot.com/2019/04/get-to-know-patau-syndrome-deadly-rare.html",
+      "https://wantahealth.blogspot.com/2019/05/6-benefits-of-fasting-in-holy-month-of.html",
+      "https://wantahealth.blogspot.com/2019/05/4-types-of-foods-that-must-have-when.html",
+      "https://wantahealth.blogspot.com/2019/05/tips-for-enjoying-fun-days-with-healthy.html",
+      "https://wantahealth.blogspot.com/2019/05/healthy-life-by-maintaining-lung-health.html",
+      "https://wantahealth.blogspot.com/2019/05/5-causes-of-stomach-heartburn-after.html",
+ 
     ];
     /* Penampungan tanpa batas */
 
